@@ -119,6 +119,12 @@ Write your approach to building things here.
 <sub>Activity tracking across a year of contributions.</sub>
 
 </div>
+## 🚀 Popular Repositories
+
+| | |
+|---|---|
+| 🌊 **[FloodSetu](https://github.com/Rashmi-builds/FloodSetu)**<br/>Decentralized multi-agent flood rescue dispatch engine with Contract-Net auctions, offline citizen SOS, and tamper-evident relief ledger.<br/>`TypeScript` | 🛒 **[VyaparAI](https://github.com/Rashmi-builds/vyaparai)**<br/>Intelligent retail billing and inventory management workspace with voice-assisted POS and offline analytics.<br/>`HTML` |
+| 🌐 **[Babel Boosters](https://github.com/Rashmi-builds/BabelBoosters)**<br/>A community glossary of open-source words, translated into the languages people actually speak. | |
 
 
 
