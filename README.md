@@ -119,6 +119,13 @@ Write your approach to building things here.
 <sub>Activity tracking across a year of contributions.</sub>
 
 </div>
+
+> ### ✨ *"Curiosity gives direction to ideas; engineering gives them form."*
+>
+> **Learning through exploration. Building through experimentation. Growing through every line of code, every design, and every problem solved.**
+
+</div>
+
 ## 🚀 Popular Repositories
 
 | | |
