@@ -131,9 +131,5 @@ Write your approach to building things here.
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Rashmi-FF6B1A?style=for-the-badge&labelColor=1a0f0a)](https://linkedin.com/in/YOUR_LINK)
 [![Live App](https://img.shields.io/badge/PROJECT-LIVE%20APP-FF6B1A?style=for-the-badge&logo=vercel&labelColor=1a0f0a)](https://your-app.vercel.app)
 
-<sub>Every commit is a pixel. Every pixel tells a story.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
-
-</div>
 
