@@ -120,16 +120,6 @@ Write your approach to building things here.
 
 </div>
 
----
-
-## Connect
-
-<div align="center">
-
-*Have a mission across uncharted waters, an AI problem to anchor in physics, or a world to build in code?*
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Rashmi-FF6B1A?style=for-the-badge&labelColor=1a0f0a)](https://linkedin.com/in/YOUR_LINK)
-[![Live App](https://img.shields.io/badge/PROJECT-LIVE%20APP-FF6B1A?style=for-the-badge&logo=vercel&labelColor=1a0f0a)](https://your-app.vercel.app)
 
 
 
