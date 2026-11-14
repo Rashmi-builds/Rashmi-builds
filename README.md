@@ -79,7 +79,7 @@ Exploring the world of software development through hands-on projects, continuou
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-## 📊 Analytics & Milestones
+## Analytics & Milestones
 
 <div align="center">
 
@@ -98,7 +98,7 @@ Exploring the world of software development through hands-on projects, continuou
 
 </div>
 
-## 📡 Connect
+## Connect
 
 <div align="center">
 
