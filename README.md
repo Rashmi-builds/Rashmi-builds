@@ -7,7 +7,7 @@
 <a href="https://github.com/Rashmi-builds"><img src="https://img.shields.io/github/followers/Rashmi-builds?label=followers&style=for-the-badge&labelColor=0d1117&color=ff6ec7&logo=github"/></a>
 <img src="https://img.shields.io/badge/Location-India-5ee0ff?style=for-the-badge&labelColor=0d1117"/>
 <a href="https://www.linkedin.com/in/rashmiraj001"><img src="https://img.shields.io/badge/LinkedIn-Rashmi%20Raj-5ee0ff?style=for-the-badge&logo=linkedin&labelColor=0d1117"/></a>
-<a href="mailto:rashmiraj10083@gmail.com"><img src="https://img.shields.io/badge/Mail-rashmiraj10083@gmail.com-ff6ec7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:rashmiraj10083@gmail.com"><img src="https://img.shields.io/badge/Mail-rashmiraj10083@gmail.com-ff6ec7?style=flat&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 <img src="https://img.shields.io/badge/Open%20to-Collaborate%20%26%20Build-b57cff?style=for-the-badge&labelColor=0d1117"/>
 
 <img src="assets/divider.svg" width="100%"/>
