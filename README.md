@@ -1,124 +1,117 @@
-<!-- Replace Rashmi-builds, Rashmi and all the links. Save as README.md in your repo named exactly Rashmi-builds -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Rashmi&fontSize=70&fontColor=ffd9c2&fontAlignY=38&desc=Crafting%20little%20worlds%2C%20pixel%20by%20pixel.&descSize=20&descAlignY=60" width="100%" />
+<img src="assets/banner.svg" alt="Rashmi Raj" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF6B1A&center=true&vCenter=true&width=600&lines=Full-Stack+%26+3D+Web+Developer;AI+%2B+Physics-Informed+ML;Open+to+Collaborate+%26+Build" alt="typing" />
+### <span style="color:#ff6ec7">Learning. Building. Breaking. Repeating.</span>
 
-<br/>
+<a href="https://github.com/Rashmi-builds"><img src="https://img.shields.io/github/followers/Rashmi-builds?label=followers&style=for-the-badge&labelColor=0d1117&color=ff6ec7&logo=github"/></a>
+<img src="https://img.shields.io/badge/Location-India-5ee0ff?style=for-the-badge&labelColor=0d1117"/>
+<a href="https://www.linkedin.com/in/rashmiraj001"><img src="https://img.shields.io/badge/LinkedIn-Rashmi%20Raj-5ee0ff?style=for-the-badge&logo=linkedin&labelColor=0d1117"/></a>
+<a href="mailto:rashmiraj10083@gmail.com"><img src="https://img.shields.io/badge/Mail-rashmiraj10083@gmail.com-ff6ec7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<img src="https://img.shields.io/badge/Open%20to-Collaborate%20%26%20Build-b57cff?style=for-the-badge&labelColor=0d1117"/>
 
-![Followers](https://img.shields.io/github/followers/Rashmi-builds?style=for-the-badge&color=FF6B1A&labelColor=1a0f0a)
-![Visitors](https://komarev.com/ghpvc/?username=Rashmi-builds&style=for-the-badge&color=FF6B1A&labelColor=1a0f0a)
-![Location](https://img.shields.io/badge/Location-India-FF6B1A?style=for-the-badge&labelColor=1a0f0a)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashmi-FF6B1A?style=for-the-badge&logo=linkedin&labelColor=1a0f0a)](https://linkedin.com/in/YOUR_LINK)
-[![Mail](https://img.shields.io/badge/Mail-you@gmail.com-FF6B1A?style=for-the-badge&logo=gmail&labelColor=1a0f0a)](mailto:you@gmail.com)
+<img src="assets/divider.svg" width="100%"/>
 
 </div>
 
----
+## 🌌 Overview
 
-## Overview
+<table>
+<tr>
+<td>
 
-Short intro about you: what you build, what you love, what you're learning.
+Exploring the world of software development through hands-on projects, continuous learning, and experimentation. Currently focused on **C++**, **DSA** and **Web Development**.
 
-<details>
-<summary><b>Philosophy & Direction</b> <sub>(click to inspect)</sub></summary>
+**Featured projects**
 
-<br/>
+- 🌊 [**FloodSetu**](https://github.com/Rashmi-builds/FloodSetu): Decentralized multi-agent flood rescue dispatch engine with Contract-Net auctions, offline citizen SOS, and tamper-evident relief ledger.
+- 🛒 [**VyaparAI**](https://github.com/Rashmi-builds/vyaparai): Intelligent retail billing and inventory management workspace with voice-assisted POS and offline analytics.
+- 🌐 [**Babel Boosters**](https://github.com/Rashmi-builds/BabelBoosters): A community glossary of open-source words, translated into the languages people actually speak.
 
-Write your approach to building things here.
+</td>
+<td width="200" align="center">
+<img src="assets/flower.svg" width="200" alt="glowing flower"/>
+</td>
+</tr>
+</table>
 
-</details>
+<details open>
+<summary><b>Philosophy &amp; Direction</b> <sub>(click to inspect)</sub></summary>
 
----
-
-## Featured Projects
-
-- [**Project One**](https://github.com/Rashmi-builds/project-one): one-line description.
-- [**Project Two**](https://github.com/Rashmi-builds/project-two): one-line description.
-- [**Project Three**](https://github.com/Rashmi-builds/project-three): one-line description.
-
----
-
-## Engineering Domains
-
-*Every coordinate charts a distinct engineering domain. Expand a sector to explore the code.*
-
-<details>
-<summary><b>Physics-Informed Machine Learning & Materials Intelligence</b></summary>
-
-<br/>
-
-- Your project or repo here
+> *"Understand the problem before chasing the solution. Build with purpose, learn through experimentation, and let consistency shape the process."*
+>
+> I believe good engineering begins with asking the right questions. I prefer understanding the fundamentals, exploring different approaches, and keeping things simple before making them complex. I value thoughtful problem-solving over shortcuts, practical learning over assumptions, and steady progress over quick results. My direction is to build things that are not only functional, but also useful, well-considered, and thoughtfully put together.
 
 </details>
 
-<details>
-<summary><b>Autonomous Swarms & Multi-Agent Protocols</b></summary>
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-<br/>
+## 🪐 Engineering Domains
 
-- Your project or repo here
+*Areas I'm exploring through learning, experimentation, and building.*
 
-</details>
+- Software Development & Web Engineering
+- Frontend Development & Interactive Interfaces
+- Backend Systems & API Development
+- Data Structures & Algorithmic Problem Solving
+- Computational Thinking & Programming Fundamentals
+- Graphic Design & Visual Communication
+- Creative Technology & Digital Experiences
 
-<details>
-<summary><b>Interactive 3D Web Engineering & Creative Graphics</b></summary>
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-<br/>
-
-- Your project or repo here
-
-</details>
-
-<details>
-<summary><b>Intelligent Systems & Retail Infrastructure</b></summary>
-
-<br/>
-
-- Your project or repo here
-
-</details>
-
----
-
-## Technical Arsenal
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,react,threejs,pytorch,sklearn,tailwind,vite,supabase&perline=10" /><br/>
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,docker,vercel,postman,nodejs,bun&perline=10" />
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,ts,react,nodejs,tailwind,vite,python&perline=11" alt="languages and frameworks"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,npm,postman&perline=7" alt="tools"/>
 
-</div>
-
-### Agentic & Computational Systems
+#### AGENTIC & COMPUTATIONAL SYSTEMS
 
 | 01 · Antigravity | 02 · Claude Code | 03 · ChatGPT Codex | 04 · OpenCode |
 |:---:|:---:|:---:|:---:|
-| Google, agentic IDE | Anthropic, terminal agent | OpenAI, cloud AI agent | Open source, autonomous agent |
+| Google<br/>Agentic IDE | Anthropic<br/>Terminal Agent | OpenAI<br/>Cloud AI Agent | Open Source<br/>Autonomous Agent |
+| ![](https://img.shields.io/badge/Antigravity-ff6ec7?style=flat-square&logo=google&logoColor=white) | ![](https://img.shields.io/badge/Claude-5ee0ff?style=flat-square&logo=anthropic&logoColor=black) | ![](https://img.shields.io/badge/ChatGPT%20Codex-b57cff?style=flat-square&logo=openai&logoColor=white) | ![](https://img.shields.io/badge/OpenCode-ff6ec7?style=flat-square) |
 
----
+</div>
 
-## Analytics & Milestones
+<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+
+## 📊 Analytics & Milestones
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rashmi-builds&show_icons=true&hide_border=true&bg_color=1a0f0a&title_color=ff6b1a&text_color=ffd9c2&icon_color=ff8c42&ring_color=ff6b1a&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-builds&layout=compact&hide_border=true&bg_color=1a0f0a&title_color=ff6b1a&text_color=ffd9c2" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rashmi-builds&show_icons=true&hide_border=false&bg_color=0d1117&title_color=ff6ec7&icon_color=5ee0ff&text_color=e6e6fa&border_color=3a2a6a&ring_color=ff6ec7&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-builds&layout=compact&bg_color=0d1117&title_color=ff6ec7&text_color=e6e6fa&border_color=3a2a6a"/>
+
+<img src="https://streak-stats.demolab.com?user=Rashmi-builds&background=0d1117&ring=ff6ec7&fire=ff6ec7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=5ee0ff&sideLabels=ff6ec7&dates=b8b8d8&stroke=3a2a6a&border=3a2a6a"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Rashmi-builds&background=1a0f0a&border=ff6b1a33&ring=ff6b1a&fire=ff6b1a&currStreakNum=ffd9c2&sideNums=ffd9c2&currStreakLabel=ff6b1a&sideLabels=ffd9c2&dates=ffb38a" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashmi-builds&bg_color=1a0f0a&color=ffd9c2&line=ff6b1a&point=ff8c42&area=true&area_color=ff6b1a&hide_border=true" width="100%" />
+<img src="https://raw.githubusercontent.com/Rashmi-builds/Rashmi-builds/output/github-snake-dark.svg" alt="contribution snake" width="100%"/>
 
 <sub>Activity tracking across a year of contributions.</sub>
 
+<img src="assets/divider.svg" width="100%"/>
+
 </div>
+
+## 📡 Connect
+
+<div align="center">
+
+**Have an idea worth exploring, a problem worth solving, or something new worth building?**
+
+<a href="https://www.linkedin.com/in/rashmiraj001"><img src="https://img.shields.io/badge/LinkedIn-Rashmi%20Raj-5ee0ff?style=for-the-badge&logo=linkedin&labelColor=0d1117"/></a>
+<a href="mailto:rashmiraj10083@gmail.com"><img src="https://img.shields.io/badge/Email-rashmiraj10083@gmail.com-ff6ec7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<br/>
+<a href="https://github.com/Rashmi-builds/FloodSetu"><img src="https://img.shields.io/badge/FloodSetu-Repo-5ee0ff?style=for-the-badge&logo=github&labelColor=0d1117"/></a>
+<a href="https://github.com/Rashmi-builds/vyaparai"><img src="https://img.shields.io/badge/VyaparAI-Repo-ff6ec7?style=for-the-badge&logo=github&labelColor=0d1117"/></a>
+<a href="https://github.com/Rashmi-builds/BabelBoosters"><img src="https://img.shields.io/badge/BabelBoosters-Repo-b57cff?style=for-the-badge&logo=github&labelColor=0d1117"/></a>
+
+<br/><br/>
 
 > ### ✨ *"Curiosity gives direction to ideas; engineering gives them form."*
 >
@@ -132,7 +125,3 @@ Write your approach to building things here.
 |---|---|
 | 🌊 **[FloodSetu](https://github.com/Rashmi-builds/FloodSetu)**<br/>Decentralized multi-agent flood rescue dispatch engine with Contract-Net auctions, offline citizen SOS, and tamper-evident relief ledger.<br/>`TypeScript` | 🛒 **[VyaparAI](https://github.com/Rashmi-builds/vyaparai)**<br/>Intelligent retail billing and inventory management workspace with voice-assisted POS and offline analytics.<br/>`HTML` |
 | 🌐 **[Babel Boosters](https://github.com/Rashmi-builds/BabelBoosters)**<br/>A community glossary of open-source words, translated into the languages people actually speak. | |
-
-
-
-
