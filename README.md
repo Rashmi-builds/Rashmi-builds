@@ -30,7 +30,7 @@ Exploring the world of software development through hands-on projects, continuou
 
 </td>
 <td width="200" align="center">
-<img src="assets/flower.svg" width="200" alt="glowing flower"/>
+<img src="flower.svg" width="200" alt="glowing flower"/>
 </td>
 </tr>
 </table>
