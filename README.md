@@ -16,9 +16,7 @@
 
 ##  Overview
 
-<table>
-<tr>
-<td>
+<img align="right" src="flower.svg" width="200" alt="glowing flower"/>
 
 Exploring the world of software development through hands-on projects, continuous learning, and experimentation. Currently focused on **C++**, **DSA** and **Web Development**.
 
@@ -28,12 +26,6 @@ Exploring the world of software development through hands-on projects, continuou
 - 🛒 [**VyaparAI**](https://github.com/Rashmi-builds/vyaparai): Intelligent retail billing and inventory management workspace with voice-assisted POS and offline analytics.
 - 🌐 [**Babel Boosters**](https://github.com/Rashmi-builds/BabelBoosters): A community glossary of open-source words, translated into the languages people actually speak.
 
-</td>
-<td width="200" align="center">
-<img src="flower.svg" width="200" alt="glowing flower"/>
-</td>
-</tr>
-</table>
 
 <details open>
 <summary><b>Philosophy &amp; Direction</b> <sub>(click to inspect)</sub></summary>
