@@ -75,8 +75,8 @@ Exploring the world of software development through hands-on projects, continuou
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rashmi-builds&show_icons=true&hide_border=false&bg_color=0d1117&title_color=ff6ec7&icon_color=5ee0ff&text_color=e6e6fa&border_color=3a2a6a&ring_color=ff6ec7&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-builds&layout=compact&bg_color=0d1117&title_color=ff6ec7&text_color=e6e6fa&border_color=3a2a6a"/>
+<!--<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rashmi-builds&show_icons=true&hide_border=false&bg_color=0d1117&title_color=ff6ec7&icon_color=5ee0ff&text_color=e6e6fa&border_color=3a2a6a&ring_color=ff6ec7&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-builds&layout=compact&bg_color=0d1117&title_color=ff6ec7&text_color=e6e6fa&border_color=3a2a6a"/>-->
 
 <img src="https://streak-stats.demolab.com?user=Rashmi-builds&background=0d1117&ring=ff6ec7&fire=ff6ec7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=5ee0ff&sideLabels=ff6ec7&dates=b8b8d8&stroke=3a2a6a&border=3a2a6a"/>
 
