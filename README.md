@@ -40,6 +40,7 @@ Exploring the world of software development through hands-on projects, continuou
 
 ## 🪐 Engineering Domains
 
+<img align="right" src="phoenix-banner.png" width="480" alt="Golden phoenix">
 *Areas I'm exploring through learning, experimentation, and building.*
 
 - Software Development & Web Engineering
