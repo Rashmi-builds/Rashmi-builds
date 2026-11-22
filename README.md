@@ -39,9 +39,8 @@ Exploring the world of software development through hands-on projects, continuou
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 ## 🪐 Engineering Domains
-
-<img align="right" src="flower-banner.png" width="170" alt="Golden flower">
 <img align="right" src="dancer-banner.png" width="200" alt="Golden dancer">
+<img align="right" src="flower-banner.png" width="170" alt="Golden flower">
 *Areas I'm exploring through learning, experimentation, and building.*
 
 - Software Development & Web Engineering
