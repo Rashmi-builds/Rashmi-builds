@@ -63,11 +63,34 @@ Exploring the world of software development through hands-on projects, continuou
 
 #### AGENTIC & COMPUTATIONAL SYSTEMS
 
-| 01 · Antigravity | 02 · Claude Code | 03 · ChatGPT Codex | 04 · OpenCode |
-|:---:|:---:|:---:|:---:|
-| Google<br/>Agentic IDE | Anthropic<br/>Terminal Agent | OpenAI<br/>Cloud AI Agent | Open Source<br/>Autonomous Agent |
-| ![](https://img.shields.io/badge/Antigravity-ff6ec7?style=flat-square&logo=google&logoColor=white) | ![](https://img.shields.io/badge/Claude-5ee0ff?style=flat-square&logo=anthropic&logoColor=black) | ![](https://img.shields.io/badge/ChatGPT%20Codex-b57cff?style=flat-square&logo=openai&logoColor=white) | ![](https://img.shields.io/badge/OpenCode-ff6ec7?style=flat-square) |
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/google/4285F4" width="56" /><br/><br/>
+      <b>01 · Antigravity</b><br/>
+      <sub>Google — Agentic IDE</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/claude/D97757" width="56" /><br/><br/>
+      <b>02 · Claude Code</b><br/>
+      <sub>Anthropic — Terminal Agent</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/openai/ffffff" width="56" /><br/><br/>
+      <b>03 · ChatGPT Codex</b><br/>
+      <sub>OpenAI — Cloud AI Agent</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="YOUR_OPENCODE_LOGO_URL" width="56" /><br/><br/>
+      <b>04 · OpenCode</b><br/>
+      <sub>Open Source — Autonomous Agent</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
