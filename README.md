@@ -82,10 +82,10 @@ Exploring the world of software development through hands-on projects, continuou
       <b>03 · ChatGPT Codex</b><br/>
       <sub>OpenAI — Cloud AI Agent</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <img src="https://github.com/sst.png?size=80" width="40" height="40" /><br/><br/>
       <b>04 · OpenCode</b><br/>
-      <sub>Open Source — Autonomous Agent</sub>
+      <sub>Open Source — Agent</sub>
     </td>
   </tr>
 </table>
