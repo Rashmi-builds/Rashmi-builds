@@ -110,8 +110,7 @@ Exploring the world of software development through hands-on projects, continuou
 >
 > **Learning through exploration. Building through experimentation. Growing through every line of code, every design, and every problem solved.**
 
-</div>
-![snake](https://raw.githubusercontent.com/Rashmi-builds/Rashmi-builds/output/github-snake-dark.svg)
+</div>)
 ## 🚀 Popular Repositories
 
 | | |
