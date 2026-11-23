@@ -68,22 +68,22 @@ Exploring the world of software development through hands-on projects, continuou
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/google/4285F4" width="56" /><br/><br/>
+      <img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" /><br/><br/>
       <b>01 · Antigravity</b><br/>
       <sub>Google — Agentic IDE</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/claude/D97757" width="56" /><br/><br/>
+      <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" /><br/><br/>
       <b>02 · Claude Code</b><br/>
       <sub>Anthropic — Terminal Agent</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/openai/ffffff" width="56" /><br/><br/>
+      <img src="https://github.com/openai.png?size=80" width="40" height="40" /><br/><br/>
       <b>03 · ChatGPT Codex</b><br/>
       <sub>OpenAI — Cloud AI Agent</sub>
     </td>
     <td align="center" width="25%">
-      <img src="YOUR_OPENCODE_LOGO_URL" width="56" /><br/><br/>
+      <img src="https://github.com/sst.png?size=80" width="40" height="40" /><br/><br/>
       <b>04 · OpenCode</b><br/>
       <sub>Open Source — Autonomous Agent</sub>
     </td>
