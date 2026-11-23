@@ -65,27 +65,27 @@ Exploring the world of software development through hands-on projects, continuou
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" /><br/><br/>
       <b>01 · Antigravity</b><br/>
-      <sub>Google — Agentic IDE</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" /><br/><br/>
-      <b>02 · Claude Code</b><br/>
-      <sub>Anthropic — Terminal Agent</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github.com/openai.png?size=80" width="40" height="40" /><br/><br/>
-      <b>03 · ChatGPT Codex</b><br/>
-      <sub>OpenAI — Cloud AI Agent</sub>
+      <sub>Google · Agentic IDE</sub>
     </td>
     <td align="center" valign="top" width="25%">
-      <img src="https://github.com/sst.png?size=80" width="40" height="40" /><br/><br/>
+      <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" /><br/><br/>
+      <b>02 · Claude Code</b><br/>
+      <sub>Anthropic · Terminal</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="https://github.com/openai.png?size=80" width="40" height="40" /><br/><br/>
+      <b>03 · ChatGPT Codex</b><br/>
+      <sub>OpenAI · Cloud Agent</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <img src="https://cdn.simpleicons.org/windowsterminal/ffffff" width="40" height="40" /><br/><br/>
       <b>04 · OpenCode</b><br/>
-      <sub>Open Source — Agent</sub>
+      <sub>Open Source · Agent</sub>
     </td>
   </tr>
 </table>
