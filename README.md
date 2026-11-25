@@ -66,19 +66,19 @@ Exploring the world of software development through hands-on projects, continuou
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="25%">
-      <img src="https://cdn.simpleicons.org/google/4285F4" width="56" height="56" /><br/><br/>
+      <img src="https://cdn.simpleicons.org/google/4285F4" width="40" height="40" /><br/><br/>
       <b>01 · Antigravity</b><br/>
       <sub>Google — Agentic IDE</sub><br/><br/>
       <img src="https://img.shields.io/badge/Antigravity-ff7a1a?style=for-the-badge&logo=google&logoColor=white" />
     </td>
     <td align="center" valign="top" width="25%">
-      <img src="https://cdn.simpleicons.org/claude/D97757" width="56" height="56" /><br/><br/>
+      <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" /><br/><br/>
       <b>02 · Claude Code</b><br/>
       <sub>Anthropic — Terminal Agent</sub><br/><br/>
       <img src="https://img.shields.io/badge/Claude-ff7a1a?style=for-the-badge&logo=anthropic&logoColor=white" />
     </td>
     <td align="center" valign="top" width="25%">
-      <img src="https://github.com/openai.png?size=112" width="56" height="56" /><br/><br/>
+      <img src="https://github.com/openai.png?size=112" width="40" height="40" /><br/><br/>
       <b>03 · ChatGPT Codex</b><br/>
       <sub>OpenAI — Cloud AI Agent</sub><br/><br/>
       <img src="https://img.shields.io/badge/ChatGPT%20Codex-ff7a1a?style=for-the-badge&logo=openai&logoColor=white" />
