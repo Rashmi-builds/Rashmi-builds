@@ -53,7 +53,7 @@ Exploring the world of software development through hands-on projects, continuou
 
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
-## 🛠️ Technical Arsenal
+🛠️ Technical Arsenal
 
 <div align="center">
 
@@ -61,46 +61,44 @@ Exploring the world of software development through hands-on projects, continuou
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,npm,postman&perline=7" alt="tools"/>
 
-#### AGENTIC & COMPUTATIONAL SYSTEMS
+#<h3 align="center">AGENTIC & COMPUTATIONAL SYSTEMS</h3>
 
-<div align="center">
-
-<<table width="100%">
+<table align="center">
   <tr>
-    <td align="center" valign="top" width="25%">
-      <img src="https://cdn.simpleicons.org/google/4285F4" width="56" height="56" /><br/><br/>
-      <b>01 · Antigravity</b><br/>
-      <sub>Google — Agentic IDE</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Antigravity-ff7a1a?style=for-the-badge&logo=google&logoColor=white" />
+    <td align="center" width="220">
+      <img src="antigravity.png" width="64" height="64" alt="Antigravity"><br><br>
+      <b>01 - Antigravity</b><br>
+      <sub>Google — Agentic IDE</sub><br><br>
+      <a href="https://antigravity.google">
+        <img src="https://img.shields.io/badge/ANTIGRAVITY-F5A623?style=flat-square&logo=google&logoColor=black" alt="Antigravity">
+      </a>
     </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://cdn.simpleicons.org/claude/D97757" width="56" height="56" /><br/><br/>
-      <b>02 · Claude Code</b><br/>
-      <sub>Anthropic — Terminal Agent</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Claude-ff7a1a?style=for-the-badge&logo=anthropic&logoColor=white" />
+    <td align="center" width="220">
+      <img src="https://cdn.simpleicons.org/anthropic/F5A623" width="64" height="64" alt="Claude Code"><br><br>
+      <b>02 - Claude Code</b><br>
+      <sub>Anthropic — Terminal Agent</sub><br><br>
+      <a href="https://claude.com/product/claude-code">
+        <img src="https://img.shields.io/badge/CLAUDE-F5A623?style=flat-square&logo=anthropic&logoColor=black" alt="Claude">
+      </a>
     </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://github.com/openai.png?size=112" width="56" height="56" /><br/><br/>
-      <b>03 · ChatGPT Codex</b><br/>
-      <sub>OpenAI — Cloud AI Agent</sub><br/><br/>
-      <img src="https://img.shields.io/badge/ChatGPT%20Codex-ff7a1a?style=for-the-badge&logo=openai&logoColor=white" />
+    <td align="center" width="220">
+      <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="64" height="64" alt="ChatGPT Codex"><br><br>
+      <b>03 - ChatGPT Codex</b><br>
+      <sub>OpenAI — Cloud AI Agent</sub><br><br>
+      <a href="https://openai.com/codex">
+        <img src="https://img.shields.io/badge/CHATGPT%20CODEX-F5A623?style=flat-square&logo=openai&logoColor=black" alt="Codex">
+      </a>
     </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://cdn.simpleicons.org/windowsterminal/ffffff" width="56" height="56" /><br/><br/>
-      <b>04 · OpenCode</b><br/>
-      <sub>Open Source — Agent</sub><br/><br/>
-      <img src="https://img.shields.io/badge/OpenCode-ff7a1a?style=for-the-badge" />
+    <td align="center" width="220">
+      <img src="opencode.png" width="64" height="64" alt="OpenCode"><br><br>
+      <b>04 - OpenCode</b><br>
+      <sub>Open Source — Autonomous Agent</sub><br><br>
+      <a href="https://opencode.ai">
+        <img src="https://img.shields.io/badge/OPENCODE-F5A623?style=flat-square&logoColor=black" alt="OpenCode">
+      </a>
     </td>
   </tr>
 </table>
-
-<p align="center">· · <b>●</b> · ·</p>
-
-</div>
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
 ## Analytics & Milestones
 
 <div align="center">
