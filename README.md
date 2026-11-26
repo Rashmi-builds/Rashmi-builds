@@ -14,7 +14,7 @@
 
 </div>
 
-##  Overview
+Overview
 
 <img align="right" src="flower.svg" width="200" alt="glowing flower"/>
 
