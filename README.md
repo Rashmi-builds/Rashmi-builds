@@ -136,7 +136,7 @@ Technical Arsenal
 > **Learning through exploration. Building through experimentation. Growing through every line of code, every design, and every problem solved.**
 
 </div>)
-## 🚀 Popular Repositories
+🚀 Popular Repositories
 
 | | |
 |---|---|
