@@ -123,7 +123,7 @@ Technical Arsenal
 **Have an idea worth exploring, a problem worth solving, or something new worth building?**
 
 <a href="https://www.linkedin.com/in/rashmiraj001"><img src="https://img.shields.io/badge/LinkedIn-Rashmi%20Raj-5ee0ff?style=for-the-badge&logo=linkedin&labelColor=0d1117"/></a>
-<a href="mailto:rashmiraj10083@gmail.com"><img src="https://img.shields.io/badge/Email-rashmiraj10083@gmail.com-ff6ec7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:rashmiraj10083@gmail.com"><img src="https://img.shields.io/badge/Email-rashmiraj10083@gmail.com-FFB309?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 <br/>
 <a href="https://github.com/Rashmi-builds/FloodSetu"><img src="https://img.shields.io/badge/FloodSetu-Repo-5ee0ff?style=for-the-badge&logo=github&labelColor=0d1117"/></a>
 <a href="https://github.com/Rashmi-builds/vyaparai"><img src="https://img.shields.io/badge/VyaparAI-Repo-ff6ec7?style=for-the-badge&logo=github&labelColor=0d1117"/></a>
